@@ -1,0 +1,12 @@
+/* colour: light */
+body {
+  background-color: #f0e6d2;
+  font-family: "Arial", sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+h1 {
+  color: #6b4226;
+  text-align: center;
+}
